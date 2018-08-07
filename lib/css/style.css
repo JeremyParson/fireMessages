@@ -52,6 +52,7 @@ h1 {
 
 .allMessages {
     flex: 1;
+    flex-direction: column;
     margin-top: 15px;
     width: calc(60% + var(--addedPadding)*2);
     padding: var(--addedPadding);
